@@ -8,4 +8,4 @@ int main()
   printf("the value of celcius is %f",c);
   return 0;
 }
-//congrats you have completed second peoblem sets!!!!
+//congrats you have completed problem sets!!!!

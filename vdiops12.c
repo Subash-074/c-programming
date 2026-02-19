@@ -23,7 +23,7 @@ printf("*\n* *\n* * *\n* * * *\n* * * * *\n");
 return 0;
 
 
-
+//this is very good 
 
 
 
